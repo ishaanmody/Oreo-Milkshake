@@ -1,8 +1,8 @@
 # Oreo-Milkshake
 
 Ingredients:
-Milk
-Oreos
+Milk,
+Oreos,
 Vanilla/ Cookies and Cream ice cream
 
 Equipment:
